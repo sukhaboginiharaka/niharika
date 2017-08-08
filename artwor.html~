@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ARTWORK</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <section id="latest" class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <h2 class="heading">My Artwork</h2>
+      <p></p>
+    </div>
+    <ul class="nospace group">
+      <li class="one_quarter first">
+        <article><img src="d1.jpg" alt="sad face">
+          <div class="postexcerpt">
+            <h6 class="heading">Face as long as fiddle</h6>
+            <p>Sometimes my memories sneak out my eyes and roll down as tears<a href="d1.jpg"></a></p>
+            <p>PLEASE DO RATE THE PICTURE </p>
+          </div>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><img src="d2.jpg" alt="heart break">
+          <div class="postexcerpt">
+            <h6 class="heading">Broken heart</h6>
+             <p>Just because i let you go,does'nt mean i wanted too<a href="d2.jpg"></a></p>
+            <p>PLEASE DO RATE THE PICTURE </p>
+          </div>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><img src="d3.jpg" alt="railway track">
+          <div class="postexcerpt">
+            <h6 class="heading">Rail track</h6>
+            <p>Even if your on the right track you'll get run over if you just sit there.<a href="d3.jpg"></a></p>
+            <p>PLEASE DO RATE THE PICTURE </p> 
+         </div>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><img src="d4.jpg" alt="sundown">
+          <div class="postexcerpt">
+            <h6 class="heading">Sunset</h6>
+            <p>Sunset is a proof that endings can be beautiful too<a href="d4.jpg"></a></p>
+<p>PLEASE DO RATE THE PICTURE </p> <br>
+          </div>
+        </article>
+      </li>
+      <li class="one_quarter first"><br><br>
+        <article><img src="d5.jpg" alt="sky">
+          <div class="postexcerpt">
+            <h6 class="heading">Pie in the sky</h6>
+            <p><a href="d5.jpg"></a>Sky is every where it begins at our feet</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+          </div>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><img src="d6.jpg" alt="women">
+          <div class="postexcerpt">
+            <h6 class="heading">Deserted women</h6>
+            <p><a href="d6.jpg"></a>It is lonely feeling when someone you cares becomes a stranger</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+          </div>
+        </article>
+      </li>
+         <li class="one_quarter">
+        <article><img src="d8.jpg" alt="together">
+          <div class="postexcerpt">
+            <h6 class="heading">Hand in hand</h6>
+            <p><a href="d8.jpg"></a>Alone we are strong together we are stronger</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+
+          </div>
+        </article>
+      </li>
+          </ul>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE HTML>
+<html>
+<html lang="">
+<head>
+<title>NIHARIKA</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+body {
+background-image: url("bg.jpg");
+background-size:100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FF6347;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #333
+}
+h1 {
+color:Tomato;
+text-align:center;
+}
+p{
+font-family:Arial;
+font-size:30px;
+}
+
+</style>
+<center><h1>MY ARTWORK</h1></center>
+</head>
+</style>
+</meta>
+<body>
+<div class="gallery">
+  <a target="_blank" href="d1.jpg">
+    <img src="d1.jpg" alt="Fjords" width="250" height="250">
+  </a>
+  <div class="desc">Face as long as a fiddle</div>
+</div>
+
+<div class="gallery">
+<div style="float: left; clear: left">
+
+  <a target="_blank" href="d2.jpg">
+    <img src="d2.jpg" alt="Forest" width="250" height="250">
+  </a>
+  <p>Add a description of the image here</p>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="d3.jpg">
+    <img src="d3.jpg" alt="Northern Lights" width="250" height="250">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="d4.jpg">
+    <img src="d4.jpg" alt="Mountains" width="250" height="250">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="d5.jpg">
+    <img src="d5.jpg" alt="Fjords" width="250" height="250">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="d6.jpg">
+    <img src="d6.jpg" alt="Forest" width="250" height="250">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="d7.jpg">
+    <img src="d7.jpg" alt="Northern Lights" width="250" height="250">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="d8.jpg">
+    <img src="d8.jpg" alt="Mountains" width="250" height="250">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

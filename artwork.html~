@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ARTWORK</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<style>
+ 
+.acidjs-rating-stars,
+.acidjs-rating-stars label::before
+{
+    display: inline-block;
+}
+ 
+.acidjs-rating-stars label:hover,
+.acidjs-rating-stars label:hover ~ label
+{
+    color: #189800;
+}
+ 
+.acidjs-rating-stars *
+{
+    margin: 0;
+    padding: 0;
+}
+ 
+.acidjs-rating-stars input
+{
+    display: none;
+}
+ 
+.acidjs-rating-stars
+{
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+ 
+.acidjs-rating-stars label
+{
+    color: #ccc;
+}
+ 
+.acidjs-rating-stars label::before
+{
+    content: "\2605";
+    width: 18px;
+    line-height: 18px;
+ text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+}
+ 
+.acidjs-rating-stars input:checked ~ label
+{
+    color: #f5b301;
+}
+ 
+.acidjs-rating-disabled
+{
+    opacity: .50;
+     
+    -webkit-pointer-events: none;
+    -moz-pointer-events: none;
+    pointer-events: none;
+}
+</style>
+</head>
+<div class="wrapper row3">
+  <section id="latest" class="hoc container clear"> 
+    <div class="sectiontitle">
+      <h2 class="heading">My Artwork</h2>
+      <p></p>
+    </div>
+    <ul class="nospace group">
+      <li class="one_quarter first">
+        <article><a href="d1.jpg"><img src="d1.jpg" alt="sad face"></a>
+<div class="postexcerpt">
+            <h6 class="heading">Face as long as fiddle</h6>
+            <p>Sometimes my memories sneak out my eyes and roll down as tears</p>
+            <p>PLEASE DO RATE THE PICTURE </p>
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+      </div>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><a href="d2.jpg"><img src="d2.jpg" alt="heart break"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Broken heart</h6>
+             <p>Just because i let you go,does'nt mean i wanted too</p>
+            <p>PLEASE DO RATE THE PICTURE </p>
+ <div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+         
+</div>
+        </article>
+      </li>
+
+      <li class="one_quarter">
+        <article><a href="d3.jpg"><img src="d3.jpg" alt="railway track"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Rail track</h6>
+            <p>Even if your on the right track you'll get run over if you just sit there</p>
+            <p>PLEASE DO RATE THE PICTURE </p>
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+
+         </div>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><a href="d4.jpg"><img src="d4.jpg" alt="sundown"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Sunset</h6>
+            <p>Sunset is a proof that endings can be beautiful too</p>
+<p>PLEASE DO RATE THE PICTURE </p> <br>
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+
+          </div>
+        </article>
+      </li>
+      <li class="one_quarter first">
+        <article><a href="d5.jpg"><img src="d5.jpg" alt="sky"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Pie in the sky</h6>
+            <p>Nature is a mutable cloud which is always and never the same</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+          </div>
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><a href="d6.jpg"><img src="d6.jpg" alt="women"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Deserted women</h6>
+            <p>It is lonely feeling when someone you cares becomes a stranger</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+          </div>
+        </article>
+      </li>
+<li class="one_quarter">
+        <article><a href="d7.jpg"><img src="d7.jpg" alt="face"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Adorable face</h6>
+            <p>Beauty begins when you decide to be yourself</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+
+
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+          </div>
+        </article>
+      </li>
+
+         <li class="one_quarter">
+        <article><a href="d9.jpg"><img src="d9.jpg" alt="sunrise"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Aurora</h6>
+            <p>There was never a night or a problem that defeats sunrise or hope</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+
+          </div>
+        </article>
+      </li>
+
+     
+   
+     <li class="one_quarter first">
+        <article><a href="d10.jpg"><img src="d10.jpg" alt="faces"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Racism</h6>
+            <p>Racism is refuge for the ignorants</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+
+          </div>
+        </article>
+      </li>
+
+     <li class="one_quarter">
+        <article><a href="d11.jpg"><img src="d11.jpg" alt="girl faces"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Criticism</h6>
+            <p>A girl is always judged by other people around her</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+
+          </div>
+        </article>
+      </li>
+ 
+     <li class="one_quarter">
+        <article><a href="d12.jpg"><img src="d12.jpg" alt="together"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Blue sea</h6>
+            <p>Meet me where sky touches the sea </p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+
+          </div>
+        </article>
+      </li>
+
+<li class="one_quarter">
+        <article><a href="d14.jpg"><img src="d14.jpg" alt="face"></a>
+          <div class="postexcerpt">
+            <h6 class="heading">Family of Gruidae</h6>
+            <p>No bird soars too high if he soars with his own wings</p>
+<p>PLEASE DO RATE THE PICTURE </p> 
+<div class="acidjs-rating-stars">
+<form>
+<input type="radio"
+name="group-1"id="group-1-0"
+value="5"/><label for="group-1-0"></label>
+<input type="radio"
+name="group-1"id="group-1-1"
+value="4"/><label for="group-1-1"></label>
+<input type="radio"
+name="group-1"id="group-1-2"
+value="3"/><label for="group-1-2"></label>
+<input type="radio"
+name="group-1"id="group-1-3"
+value="2"/><label for="group-1-3"></label>
+<input type="radio"
+name="group-1"id="group-1-4"
+value="1"/><label for="group-1-4"></label>
+</form>
+</div>
+
+          </div>
+        </article>
+      </li>
+
+          </ul>
+  </section>
+</div>
+</body>
+</html>
